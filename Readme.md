@@ -1,5 +1,5 @@
 # intro To ionic:
-![intro](images\introIonic.png)
+![intro](./images/introIonic.png)
 ![intro2](images\intro2.png)
 ![benAng](images\benfisofAng.png)
 
