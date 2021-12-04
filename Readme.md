@@ -1,11 +1,11 @@
 # intro To ionic:
-<<<<<<< HEAD
+
 ![intro](images/introIonic.png)
 ![intro2](images/intro2.png)
 ![benAng](images/benfisofAng.png)
 =======
 
->>>>>>> e2f34eac35892f0ae9cd876900f38cc11eb7fc0c
+
 
 # install angular cli:
 `npm install -g @angular/cli`
