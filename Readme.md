@@ -1,12 +1,16 @@
 # intro To ionic:
-![intro](./images/introIonic.png)
+<<<<<<< HEAD
+![intro](images/introIonic.png)
 ![intro2](images/intro2.png)
-![benAng](images\benfisofAng.png)
+![benAng](images/benfisofAng.png)
+=======
+
+>>>>>>> e2f34eac35892f0ae9cd876900f38cc11eb7fc0c
 
 # install angular cli:
 `npm install -g @angular/cli`
 
-![installAngler](images\introIonic.png)
+![installAngler](images/introIonic.png)
 
 `ng --version` to check if it installed
 
@@ -16,12 +20,12 @@ to lunch the sever: `ng serve`
 
 # Angluer structcher :
 
-![angler](images\anglerSrc.png)
-![bundels](images\bundels.png)
+![angler](images/anglerSrc.png)
+![bundels](images/bundels.png)
 
 # Angluer Road To learn :
-![roadAng](images\roadAng.png)
-![roadAdv](images\roadAngAdv.png)
+![roadAng](images/roadAng.png)
+![roadAdv](images/roadAngAdv.png)
 
 # TypeScript:
 
@@ -32,15 +36,15 @@ to lunch the sever: `ng serve`
 
 - only differnt is variable need to set the type for it.
 
-Ts\\\\\\\\\\\\\\\\js\\\\\\\\\\\\\\\\\\Ts : Ts can take js
+Ts////////////////js//////////////////Ts : Ts can take js
 - browser can not understand the TS. we need to convert to js
 
 - To use the TS run `npm install -g typescript`
 - check ver `tsc --version`
 - to convert : 
-- ![convert](images\convert.png)
-- you can till him its a string and you can see all method avelable there ![newFea](images\newFinTs.png)or use `(m as string)`
-- note : ![and in terminal](images\andInTerminal.png)
+- ![convert](images/convert.png)
+- you can till him its a string and you can see all method avelable there ![newFea](images/newFinTs.png)or use `(m as string)`
+- note : ![and in terminal](images/andInTerminal.png)
 
 
 
@@ -93,23 +97,23 @@ point.draw();
 
 ```
 
-![class](images\class.png)
+![class](images/class.png)
 
-![acsses](images\accsessModi.png)
+![acsses](images/accsessModi.png)
 
 if you use privete word in variable with class you will not acess it from the class
 
-![class2](images\class2.png)
+![class2](images/class2.png)
 
-![usemodel](images\model.png)
+![usemodel](images/model.png)
 
 - (import and export).
 
 # Back to angular:
 ## componet:
 The area that the user see
-![componet](images\componet.png)
-![componet2](images\componet2.png)
+![componet](images/componet.png)
+![componet2](images/componet2.png)
 
 * To create componet:
 1. create a component in app folder ex:`courses.compnent.ts` add code example:
@@ -125,13 +129,13 @@ export class CoursesComponent{
 
 }
 ```
-![compnetCode](images\componetEx.png)
+![compnetCode](images/componetEx.png)
 2. register it in a module:
-![regInModle](images\regInModel.png)
+![regInModle](images/regInModel.png)
 3. add an element in an html markup ex : `<courses></courses>`
 
 4. you can finish all three steps above by `ng g c course`
-![ezStep](images\ezSteps.png)
+![ezStep](images/ezSteps.png)
 
 ## Example of how to use Component :
 ```
@@ -218,21 +222,21 @@ export class CoursesComponent{
 2. run `ionic start`
 3. cd to your project
 4. run `ionic serve`
-5. ionic road ![ionicRoad](.\images\ioncRoad.png)
+5. ionic road ![ionicRoad](./images/ioncRoad.png)
 
 
 # core Building Blocks:
 
-![ionicBuildingBlocks](.\images\ionicBuildingBlocks.png)
+![ionicBuildingBlocks](./images/ionicBuildingBlocks.png)
 
 ## components:
 
-![ionicComponent](images\ionicComponents.png)
-![ionicbutton](images\ionicbutton.png)
+![ionicComponent](images/ionicComponents.png)
+![ionicbutton](images/ionicbutton.png)
 
 ## lets dive into the project : 
 
-![1](images\Screenshot_1.png)
+![1](images/Screenshot_1.png)
 
 1. you can work with ionic dirctly with html by cdn
 ```
@@ -277,19 +281,19 @@ export class CoursesComponent{
 
 ```
 2. core component types:
-![2](images\Screenshot_2.png)
-![2](images\Screenshot_2.png)
-![2](images\Screenshot_3.png)
-![2](images\Screenshot_4.png)
-![2](images\Screenshot_5.png)
-![2](images\Screenshot_6.png)
-![2](images\Screenshot_7.png)
+![2](images/Screenshot_2.png)
+![2](images/Screenshot_2.png)
+![2](images/Screenshot_3.png)
+![2](images/Screenshot_4.png)
+![2](images/Screenshot_5.png)
+![2](images/Screenshot_6.png)
+![2](images/Screenshot_7.png)
 
 
 3. `ionic generate` To create anything in angluer
 
-![2](images\Screenshot_8.png)
-![2](images\Screenshot_9.png)
+![2](images/Screenshot_8.png)
+![2](images/Screenshot_9.png)
 
 
 
